@@ -1,0 +1,13 @@
+Windows Registry Editor Version 5.00                                                                                                                                                                                     youtube.com/AdamxYT
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\WindowsUpdate\UX\Settings]
+"PauseFeatureUpdatesStartTime"="2019-07-28T10:38:56Z"
+"PauseQualityUpdatesStartTime"="2019-07-28T10:38:56Z"
+"PauseUpdatesStartTime"="2019-07-28T10:38:56Z"
+"PauseUpdatesExpiryTime"="2090-01-01T10:38:56Z"
+"PauseFeatureUpdatesEndTime"="2090-01-01T10:38:56Z"
+"PauseQualityUpdatesEndTime"="2090-01-01T10:38:56Z"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\WindowsUpdate\UpdatePolicy\Settings]
+"PausedQualityStatus"=dword:00000001
+"PausedFeatureStatus"=dword:00000001
